@@ -1,0 +1,10 @@
+{
+  "name": "blog-website-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node generate-posts.js"
+  },
+  "dependencies": {
+    "pdf-extraction": "^1.0.0"
+  }
+}
